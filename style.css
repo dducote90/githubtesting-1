@@ -1,7 +1,12 @@
 body { background-color: dodgerblue;
-font-family: 'Lucida Sans';}
+font-family: cursive;}
 a { 
+    text-align: center;
+    border-style: double;
     display: flex;
     text-decoration: none;
     color: black;
+}
+h1 {
+    font-family: cursive;
 }
