@@ -1,0 +1,7 @@
+body { background-color: dodgerblue;
+font-family: 'Lucida Sans';}
+a { 
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
